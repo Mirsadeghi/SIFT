@@ -2,15 +2,11 @@
 Pure Matlab implementation of SIFT keypoint Detection, Extraction and Matching
 
 # Usage:
-
-% load image
-
+% load image<br/>
 I = imread('cameraman.tif');
 
-% extract SIFT frames and descriptor
-
+% extract SIFT frames and descriptor<br/>
 [f, d] = SIFT(I);
 
-% plot frames
-
+% plot frames<br/>
 plot_descriptor(I, f)
