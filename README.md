@@ -11,4 +11,4 @@ I = imread('cameraman.tif');
 % plot frames<br/>
 plot_descriptor(I, f)
 
- ![SIFT_frames](https://raw.githubusercontent.com/Mirsadeghi/SIFT/SIFT_frames.jpg)
+ ![SIFT_frames](SIFT_frames.jpg)
